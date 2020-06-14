@@ -165,7 +165,7 @@
 			<key>ProtectMemoryRegions</key>
 			<false/>
 			<key>ProtectSecureBoot</key>
-			<false/>
+			<true/>
 			<key>ProtectUefiServices</key>
 			<false/>
 			<key>ProvideCustomSlide</key>
@@ -525,7 +525,7 @@
 			<key>PickerMode</key>
 			<string>Builtin</string>
 			<key>PollAppleHotKeys</key>
-			<false/>
+			<true/>
 			<key>ShowPicker</key>
 			<true/>
 			<key>TakeoffDelay</key>
@@ -574,7 +574,7 @@
 			<key>AllowSetDefault</key>
 			<true/>
 			<key>AuthRestart</key>
-			<false/>
+			<true/>
 			<key>BlacklistAppleUpdate</key>
 			<true/>
 			<key>BootProtect</key>
@@ -586,7 +586,7 @@
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>Vault</key>
-			<string>Optional</string>
+			<string>Secure</string>
 		</dict>
 		<key>Tools</key>
 		<array>
@@ -815,7 +815,7 @@
 			<key>AppleRtcRam</key>
 			<false/>
 			<key>AppleSmcIo</key>
-			<false/>
+			<true/>
 			<key>AppleUserInterfaceTheme</key>
 			<false/>
 			<key>DataHub</key>
@@ -823,7 +823,7 @@
 			<key>DeviceProperties</key>
 			<false/>
 			<key>FirmwareVolume</key>
-			<false/>
+			<true/>
 			<key>HashServices</key>
 			<false/>
 			<key>OSInfo</key>
