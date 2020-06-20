@@ -612,7 +612,7 @@
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>Vault</key>
-			<string>Secure</string>
+			<string>Optional</string>
 		</dict>
 		<key>Tools</key>
 		<array>
