@@ -96,13 +96,21 @@
 		<data>
 		osdIMFGLctSQZ+6abL6VfMJhiDyLJztnOS96EGaxA54=
 		</data>
+		<key>Keys\ca.pem</key>
+		<data>
+		b85bbEQ3kA7RaSSVSKhigyiOdU4QKBvZ4EZ/Izjoq0Q=
+		</data>
+		<key>Keys\privatekey.cer</key>
+		<data>
+		nfUoxMj43sU3COkXo0eFdYUM1ydB4gHLY7MvjGCB5Bs=
+		</data>
 		<key>Tools\OpenShell.efi</key>
 		<data>
 		7OHNxdcgg9G9f4JHO1zNTUZAD4OZRLp+H4fFVL7reas=
 		</data>
 		<key>config.plist</key>
 		<data>
-		8DnWw5UWree1epJhzUB/JjuMU85cHW2pHaqBNtoIug8=
+		NR+Hz/cLcl8f/LDI823U9y9P1IonS8VKeRTtkVZXu18=
 		</data>
 	</dict>
 	<key>Version</key>
