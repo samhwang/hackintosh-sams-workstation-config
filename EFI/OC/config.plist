@@ -273,6 +273,22 @@
 				<key>MinKernel</key>
 				<string></string>
 				<key>BundlePath</key>
+				<string>NVMeFix.kext</string>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/NVMeFix</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>BundlePath</key>
 				<string>SMCProcessor.kext</string>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCProcessor</string>
@@ -697,17 +713,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02012405GULNV9FB</string>
+			<string>C02715501CDJG36CB</string>
 			<key>ROM</key>
 			<data>ESIzAAAA</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>iMac19,1</string>
+			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CGQZ0JV3Q</string>
+			<string>C02TKNZ5HX87</string>
 			<key>SystemUUID</key>
-			<string>85C9BE18-F73E-469E-983A-C4E1F7B5064D</string>
+			<string>5769DE41-BC12-48E4-87A4-5B3E5C58393F</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
