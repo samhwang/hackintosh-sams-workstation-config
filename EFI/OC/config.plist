@@ -535,7 +535,8 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-		<array/>
+		<array>
+		</array>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleAttributes</key>
@@ -720,7 +721,7 @@
 			<key>MLB</key>
 			<string>C02715501CDJG36CB</string>
 			<key>ROM</key>
-			<data>107b449341b0</data>
+			<data>EHtEk0Gw</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
