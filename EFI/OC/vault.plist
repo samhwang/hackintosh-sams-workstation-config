@@ -84,6 +84,18 @@
 		<data>
 		ObLdN5KRjSBaFR4D9rtznJ0QnZvpDlt3/zrV8gqUG10=
 		</data>
+		<key>Kexts\USBInjectAll.kext\Contents\Info.plist</key>
+		<data>
+		jAxBLYnRGg4687W7y7dgCdve8IHkWjZC3q/f//gnEdI=
+		</data>
+		<key>Kexts\USBInjectAll.kext\Contents\MacOS\USBInjectAll</key>
+		<data>
+		1m0OmGwyvm9m+6Sze/IF1In3xuI9JUELE9SS7d3cJmo=
+		</data>
+		<key>Kexts\USBInjectAll.kext\Contents\_CodeSignature\CodeResources</key>
+		<data>
+		ZobeEKKKL+EbNsu4bcusyCfPxOoRa02r8YReWu5inps=
+		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\Info.plist</key>
 		<data>
 		YO7/Qvshg16e1yv8ivI6RIs2B6aq6DWdo+klw4wMpYw=
@@ -106,7 +118,7 @@
 		</data>
 		<key>config.plist</key>
 		<data>
-		Ps7QRa48iWrkksOhG88O3PLb97k9YY4g5IzvEQ10Nk0=
+		ffHo1cwsd0IqnWcyVi4PSDaV8K1ZmntVoIVpcLmVvtM=
 		</data>
 	</dict>
 	<key>Version</key>
