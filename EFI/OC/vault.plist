@@ -28,6 +28,10 @@
 		<data>
 		WIe9YMNtVnvhJ0hzlmNWsX/dx3Qt88Vft44QcbXsv+0=
 		</data>
+		<key>Drivers\OpenCanopy.efi</key>
+		<data>
+		AAMrsjETle6d2OHWxUw+xEZg3apcs7HkuydlxFCJ06E=
+		</data>
 		<key>Drivers\OpenRuntime.efi</key>
 		<data>
 		H4NN7AQZOTF1SZgeSIDVJ8h7cOnyYGAQVGfRoF9iYr8=
@@ -102,7 +106,7 @@
 		</data>
 		<key>Keys\privatekey.cer</key>
 		<data>
-		a0Sbi/Fuh4AbnmDXC2DNJ4zuCKZVe4SJi/OqzbfwR88=
+		4+o13OLjBJ+Z5lnOUqJCNTgY0ruu+ZnId9ivG13u6os=
 		</data>
 		<key>Tools\OpenShell.efi</key>
 		<data>
@@ -110,7 +114,7 @@
 		</data>
 		<key>config.plist</key>
 		<data>
-		zmNppNCuIdA9vQN+TYMp6x4lDjOIkzYbu3ocsXdCYmY=
+		Ps7QRa48iWrkksOhG88O3PLb97k9YY4g5IzvEQ10Nk0=
 		</data>
 	</dict>
 	<key>Version</key>
