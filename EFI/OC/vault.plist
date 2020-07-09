@@ -44,6 +44,18 @@
 		<data>
 		9evHyMSoHZRCB4q029G436G7j4s6emHWoRYy5rDBsJU=
 		</data>
+		<key>Kexts\CPUFriend.kext\Contents\Info.plist</key>
+		<data>
+		YHamZEsMJ6RBiTYnBwA6sW2E5Gtt8Inv2kI0l94WKzk=
+		</data>
+		<key>Kexts\CPUFriend.kext\Contents\MacOS\CPUFriend</key>
+		<data>
+		0uIubY0gsDRvRDLzbmYwpNK1orpd1HD5d0iK3uEPTNc=
+		</data>
+		<key>Kexts\CPUFriendDataProvider.kext\Contents\Info.plist</key>
+		<data>
+		GlUQaRpPV/dL4Sm0+b0sBXiXY3Z+5kmuxiGPDpr/qoE=
+		</data>
 		<key>Kexts\IntelMausiEthernet.kext\Contents\Info.plist</key>
 		<data>
 		zNHFdzq5oFp9bnseE0PYE7ZtKs5bJc7GyUgfBg2ARwc=
@@ -294,7 +306,7 @@
 		</data>
 		<key>config.plist</key>
 		<data>
-		kRMqiUkRevkS8vvHTXNzRiWYbkeunWuO2Kz1T/DEEt4=
+		LAb8QdpG+hdLVun4gi0QaAbf1XKsYzV641qEhAQgQ6o=
 		</data>
 	</dict>
 	<key>Version</key>
