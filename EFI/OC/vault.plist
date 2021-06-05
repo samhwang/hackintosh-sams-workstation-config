@@ -30,19 +30,19 @@
 		</data>
 		<key>Drivers\OpenCanopy.efi</key>
 		<data>
-		due8t3fBX1Vk2U0xybCIyDRgOgarFXD4y6A+VvpTNlE=
+		e9/mktov4mrYKuCKnk8uuamieCK0p9TeA80H/OS4d1I=
 		</data>
 		<key>Drivers\OpenRuntime.efi</key>
 		<data>
-		ySAsCZklvZD/4ShKPlo85hucwAsh/DBDwSZGnUzF97c=
+		y+Ze1MkG/OIShbMmHbxi+xSrRfqTqvc7LfS+xdZdrOE=
 		</data>
 		<key>Kexts\AppleALC.kext\Contents\Info.plist</key>
 		<data>
-		Uh3SVYh5qjdvT+aGPQD2MoPLjnA/l7bWFS5Hqu/7FCg=
+		0kiAIsYIBpxwTkAyTx33K+4lGd3YksXXBT4GuVfeXyc=
 		</data>
 		<key>Kexts\AppleALC.kext\Contents\MacOS\AppleALC</key>
 		<data>
-		9Lq2IV8qNV5HP30F2TLGSvsEUTb/OeViWHZcfrfmZVo=
+		xY99jW6CxHXl7fiUqfNgWjJxTUeiA0ZlYCWAUkRVdeM=
 		</data>
 		<key>Kexts\CPUFriend.kext\Contents\Info.plist</key>
 		<data>
@@ -58,43 +58,43 @@
 		</data>
 		<key>Kexts\IntelMausi.kext\Contents\Info.plist</key>
 		<data>
-		WjL4QP95O4wGvgM+Ac2YoOLjsYKVERty6/I3gVzyalU=
+		f1Jyt2OOLjc8T1B+prdqRMS1ywJ5kLBynsxHym6TY0s=
 		</data>
 		<key>Kexts\IntelMausi.kext\Contents\MacOS\IntelMausi</key>
 		<data>
-		snBxL2Db8swG9Bw2JmqnGTq3D06Zae43E+vhBJkhu0Q=
+		mvs6FAJ9SZ3yTqobXugTSIYp0HWD2BEVZOR/l4ke980=
 		</data>
 		<key>Kexts\Lilu.kext\Contents\Info.plist</key>
 		<data>
-		PHHn2aIXbuIuwlBvEOAc3xKfCdle6s8bhUIGzocN4eM=
+		yLboQRQbYxfR71XJ5Q/CZ4Ngs1jESWyOLBslOr65QXg=
 		</data>
 		<key>Kexts\Lilu.kext\Contents\MacOS\Lilu</key>
 		<data>
-		6jWH0skIgVgPQO2HtTB3QrvFD+yrNCz1/F3rWphrSTo=
+		3/TAU990LS1oCjk0RY8I6WTOAb9aBOylEywdoi/fTHw=
 		</data>
 		<key>Kexts\NVMeFix.kext\Contents\Info.plist</key>
 		<data>
-		vmufatt1SIcrSz9Nqya3agkBzHrGLzkDiYnjIPrtFuA=
+		4HZLC65kzd+znm5SdXnvIxdWjlK7orEv24eK/6MFVMQ=
 		</data>
 		<key>Kexts\NVMeFix.kext\Contents\MacOS\NVMeFix</key>
 		<data>
-		xL0ZF1BYTA7P2rkoTL5sDdOBqGFBs0QBVSCIjnB/NTc=
+		oxqcV09Yq6+buRmj+nSmf0VzgrU6iVj+7+Qh6z46rck=
 		</data>
 		<key>Kexts\SMCProcessor.kext\Contents\Info.plist</key>
 		<data>
-		z4pR9ZULIKomMlX4xqeuDRBxrf6lOqs7NnGroLXJ7rc=
+		Qnozn8LQSIPctyqm0DdogCFdPGCEszZVSWepGOn9kgU=
 		</data>
 		<key>Kexts\SMCProcessor.kext\Contents\MacOS\SMCProcessor</key>
 		<data>
-		w01OTnCSGA+qPXNmG+ef4CoX3VQUGSeniT8dSqf+4AE=
+		vXxjHhwiIlYWqgG8IOFNyo83juuRgv/T3TOCABUH0KE=
 		</data>
 		<key>Kexts\SMCSuperIO.kext\Contents\Info.plist</key>
 		<data>
-		DQceg4dgzw5blbbb4AzAyL2FRMxsMAB80be0B3SNlSs=
+		IytrHlZ8gYCXizZQoAKuNyTAIBv6WsdoHRnA15OZsyk=
 		</data>
 		<key>Kexts\SMCSuperIO.kext\Contents\MacOS\SMCSuperIO</key>
 		<data>
-		PCU6Y9UdYt2fjbeUPr1EDl+/fJUUS1A5uawQWqk7JIU=
+		oy5E6BLujVJvqFoq0EdSQhI88Nnkj6caa/aQ4myF6LQ=
 		</data>
 		<key>Kexts\USBMap.kext\Contents\Info.plist</key>
 		<data>
@@ -102,19 +102,19 @@
 		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\Info.plist</key>
 		<data>
-		kraqGYcBU0kqBB+5J7XelmU4FVAf+90RkhQYMcfv4D4=
+		c42zvLWaulFdH1uhyf1hE2woYfdeMrVBBnNg0ydq37o=
 		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\MacOS\VirtualSMC</key>
 		<data>
-		zHiL/K0qM70MR4dVQabK7AMXMhhk22aoXja7+GGNF9g=
+		T4WNdNrXZqfrCRh+tcAkXZJhf9r6OGvJbmb/bE28ELE=
 		</data>
 		<key>Kexts\WhateverGreen.kext\Contents\Info.plist</key>
 		<data>
-		ygkPDcHJvxa59eVx+bx48tYIu8faSXsAl3e8vOqHok8=
+		8k5tlSsnINFWsY4xFr/OPi0C8uaQsgcKJCgQrCVF9uQ=
 		</data>
 		<key>Kexts\WhateverGreen.kext\Contents\MacOS\WhateverGreen</key>
 		<data>
-		GmB1pSVCd/sBDBHZN8XAj2zAh/RJ7EXKclJgpBltmac=
+		xmv9DSZ/HMtYmB6eHubZ1zWSgYARKA9ASjqNj8slBCc=
 		</data>
 		<key>Resources\Font\Font_1x.bin</key>
 		<data>
@@ -306,7 +306,11 @@
 		</data>
 		<key>config.plist</key>
 		<data>
-		GJqoBL8JEg+j9JQj2sLdKfn2NvvJmOcOeHNQnO2Vscw=
+		xKWMueVOJhNf+Iv6pcr6vxCIHhLH8YO7HZHD+PdqXYI=
+		</data>
+		<key>old.plist</key>
+		<data>
+		e10R1blEOWi2TFZpiWpvEnYn3Tgu65NK1+AfMEB4kj0=
 		</data>
 	</dict>
 	<key>Version</key>
