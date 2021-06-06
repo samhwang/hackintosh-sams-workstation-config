@@ -12,10 +12,6 @@
 		<data>
 		vKBaCe6vOtexUxrHFrAb6DPNICjV++wQbEQYNLs3zyY=
 		</data>
-		<key>Bootstrap\Bootstrap.efi</key>
-		<data>
-		Lfv0g1HS7ccgXdGRNr5srykBQ/1tigFgYNQG9YvhHJ4=
-		</data>
 		<key>Drivers\AudioDxe.efi</key>
 		<data>
 		NZ5RY+/DT5moXMecw0kF6mrvQPxzRZosxsgl17X4fb8=
@@ -98,7 +94,7 @@
 		</data>
 		<key>Kexts\USBMap.kext\Contents\Info.plist</key>
 		<data>
-		j8WBOYeIwKVynT/fPGdspqSJIQ7SFgD1A53p4NTSJlM=
+		65ybAOt5IhJTrl9D7fEmHWaJwuDh0IH4kQKyOE0PUGo=
 		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\Info.plist</key>
 		<data>
@@ -306,7 +302,7 @@
 		</data>
 		<key>config.plist</key>
 		<data>
-		xKWMueVOJhNf+Iv6pcr6vxCIHhLH8YO7HZHD+PdqXYI=
+		2YLTNF5b3/fFGNXdWKyfTsup9rNnBMz6u4d9UHhdbjw=
 		</data>
 		<key>old.plist</key>
 		<data>
