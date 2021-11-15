@@ -14,31 +14,31 @@
 		</data>
 		<key>Drivers\AudioDxe.efi</key>
 		<data>
-		NZ5RY+/DT5moXMecw0kF6mrvQPxzRZosxsgl17X4fb8=
+		fw6ieUzN+ok9WqwdPoSHbqN4NSkq/kAJ/Q7Y4Pbn2w8=
 		</data>
 		<key>Drivers\CrScreenshotDxe.efi</key>
 		<data>
-		RDwehDd3itoMfU948yiGGwIqk7xF/fx9OMNFvhke3+U=
+		chvDnDbR4+YjwtV8N3ZOKMOoO7g2PsFgHN+JNNBnpAE=
 		</data>
 		<key>Drivers\HfsPlus.efi</key>
 		<data>
-		WIe9YMNtVnvhJ0hzlmNWsX/dx3Qt88Vft44QcbXsv+0=
+		YZNfOa7Vd9ad+WYoL5P9KIamEcJm33rI8QVYttLXHXg=
 		</data>
 		<key>Drivers\OpenCanopy.efi</key>
 		<data>
-		e9/mktov4mrYKuCKnk8uuamieCK0p9TeA80H/OS4d1I=
+		KbCQp4m1ndVNKJehim6andskJQFARn1YIXnkDqPnIOc=
 		</data>
 		<key>Drivers\OpenRuntime.efi</key>
 		<data>
-		y+Ze1MkG/OIShbMmHbxi+xSrRfqTqvc7LfS+xdZdrOE=
+		hCickYcnPp/iC/SOHr7pWph0DJ4zIOHxmNpGcYkZJFc=
 		</data>
 		<key>Kexts\AppleALC.kext\Contents\Info.plist</key>
 		<data>
-		0kiAIsYIBpxwTkAyTx33K+4lGd3YksXXBT4GuVfeXyc=
+		0T0GpCd98P51HcEVjL26YJkYEP8HF6KqyYdqd2ACEqw=
 		</data>
 		<key>Kexts\AppleALC.kext\Contents\MacOS\AppleALC</key>
 		<data>
-		xY99jW6CxHXl7fiUqfNgWjJxTUeiA0ZlYCWAUkRVdeM=
+		XxLD6tly4H2nUpfK8KQ51IrrVmd9/c3JS4W/V18PA0M=
 		</data>
 		<key>Kexts\CPUFriend.kext\Contents\Info.plist</key>
 		<data>
@@ -54,19 +54,19 @@
 		</data>
 		<key>Kexts\IntelMausi.kext\Contents\Info.plist</key>
 		<data>
-		f1Jyt2OOLjc8T1B+prdqRMS1ywJ5kLBynsxHym6TY0s=
+		m7cHvrSY7cRCKa1ELLkjlA0NCcdwp9A8/pAtlkr/nZA=
 		</data>
 		<key>Kexts\IntelMausi.kext\Contents\MacOS\IntelMausi</key>
 		<data>
-		mvs6FAJ9SZ3yTqobXugTSIYp0HWD2BEVZOR/l4ke980=
+		yCkIIlTjQm3PmTc148WiTxJgShgGYS+oXe/AukEqwUw=
 		</data>
 		<key>Kexts\Lilu.kext\Contents\Info.plist</key>
 		<data>
-		yLboQRQbYxfR71XJ5Q/CZ4Ngs1jESWyOLBslOr65QXg=
+		Z4U+z2gnnoRsAe/YmH9U0bc6Ao21FUT72ij0eVnGiFg=
 		</data>
 		<key>Kexts\Lilu.kext\Contents\MacOS\Lilu</key>
 		<data>
-		3/TAU990LS1oCjk0RY8I6WTOAb9aBOylEywdoi/fTHw=
+		iEhAErM1HnlN7AnBCoGeGXHS+B+00tph0joaTYUulaE=
 		</data>
 		<key>Kexts\NVMeFix.kext\Contents\Info.plist</key>
 		<data>
@@ -78,19 +78,19 @@
 		</data>
 		<key>Kexts\SMCProcessor.kext\Contents\Info.plist</key>
 		<data>
-		Qnozn8LQSIPctyqm0DdogCFdPGCEszZVSWepGOn9kgU=
+		clIXuqd7nWomQZOCDD4dxw36iqUh9jCFscd7os2m5rE=
 		</data>
 		<key>Kexts\SMCProcessor.kext\Contents\MacOS\SMCProcessor</key>
 		<data>
-		vXxjHhwiIlYWqgG8IOFNyo83juuRgv/T3TOCABUH0KE=
+		F0LhLXDd1nrYkbqflYGVqWkJQZ8ZJPwAOKOSgWLat/U=
 		</data>
 		<key>Kexts\SMCSuperIO.kext\Contents\Info.plist</key>
 		<data>
-		IytrHlZ8gYCXizZQoAKuNyTAIBv6WsdoHRnA15OZsyk=
+		4GSmEH2ne9W2/Oz++5T4eMfhKHRlXhIzjxHSj81PhFk=
 		</data>
 		<key>Kexts\SMCSuperIO.kext\Contents\MacOS\SMCSuperIO</key>
 		<data>
-		oy5E6BLujVJvqFoq0EdSQhI88Nnkj6caa/aQ4myF6LQ=
+		e54QrJjDBjY2pQddr3mLVyA1txFQgpoEL2/ivcGEYnE=
 		</data>
 		<key>Kexts\USBMap.kext\Contents\Info.plist</key>
 		<data>
@@ -98,23 +98,23 @@
 		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\Info.plist</key>
 		<data>
-		c42zvLWaulFdH1uhyf1hE2woYfdeMrVBBnNg0ydq37o=
+		IfPfgPmNSxUy1k/hqLUHVv/ixoWQOc9mw4yM8qZcLRY=
 		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\MacOS\VirtualSMC</key>
 		<data>
-		T4WNdNrXZqfrCRh+tcAkXZJhf9r6OGvJbmb/bE28ELE=
+		wzlxCj9PXjRxhRhGJ6zXJsWRZFrdlXXKyKnkL+jgf7w=
 		</data>
 		<key>Kexts\WhateverGreen.kext\Contents\Info.plist</key>
 		<data>
-		8k5tlSsnINFWsY4xFr/OPi0C8uaQsgcKJCgQrCVF9uQ=
+		5qR6UgoQjS9PhEMDquGp4WDE3fRfutQE7aeDsAvOuUE=
 		</data>
 		<key>Kexts\WhateverGreen.kext\Contents\MacOS\WhateverGreen</key>
 		<data>
-		xmv9DSZ/HMtYmB6eHubZ1zWSgYARKA9ASjqNj8slBCc=
+		qd0SmhzT5hXIFx+zL2ce/hhH6PqYQjd4QvlfAnwE7/A=
 		</data>
 		<key>Resources\Font\Font_1x.bin</key>
 		<data>
-		UbpyosL4nwwA6nHT+hU6EOZcObI/n1sZwA/b5snHQxU=
+		XCV5IkjW0tblOKt5XQXNyWy4ccoo/jj6BA/5j+xiTpU=
 		</data>
 		<key>Resources\Font\Font_1x.png</key>
 		<data>
@@ -128,99 +128,267 @@
 		<data>
 		T7Rc18QRoPovyg6kwfwqATD4rwvNxxJ07ID7sZ8UrE4=
 		</data>
-		<key>Resources\Image\AppleRecv.icns</key>
-		<data>
-		B7hfEZiy+0DN5mhJRhO8vRXKn7xj/CYaunv3+aPcw0I=
-		</data>
-		<key>Resources\Image\AppleTM.icns</key>
-		<data>
-		2THGhilwQruqRcy0LW1OqCGr5qVaxlWHQzKb96AtBwQ=
-		</data>
-		<key>Resources\Image\Cursor.icns</key>
-		<data>
-		jWnjyC+nftf8rbEBmttXiqobKyBgUNNVTnKTRH2k1vU=
-		</data>
-		<key>Resources\Image\ExtAppleRecv.icns</key>
-		<data>
-		7xLvdstZvJsbpWA0XV68d/Wvf2qj8o21dwlHiORrc38=
-		</data>
-		<key>Resources\Image\ExtAppleTM.icns</key>
-		<data>
-		qNVam12lgS9r1kxUMrTkFNa7IC4qyXEf1XAqyfXRq58=
-		</data>
-		<key>Resources\Image\ExtHardDrive.icns</key>
-		<data>
-		byYuBaNvH/PloBeLM5YmwVa+aN6Pm120uQZSzhF0RYs=
-		</data>
-		<key>Resources\Image\HardDrive.icns</key>
-		<data>
-		ZSydAoxJb6XadZEPkLMSur6b76ouYgo0bedlFcPdGZw=
-		</data>
-		<key>Resources\Image\OldAppleRecv.icns</key>
+		<key>Resources\Image\Acidanthera\Chardonnay\AppleRecv.icns</key>
 		<data>
 		BYIIrqxgEPGXmoah2ZkMmI7rSVwXHwTZRE0u7ZeRAiI=
 		</data>
-		<key>Resources\Image\OldAppleTM.icns</key>
+		<key>Resources\Image\Acidanthera\Chardonnay\AppleTM.icns</key>
 		<data>
 		kfqbz0TgBkWq0TlYnZgBVjIigruI8fVrW+rjIc1fd4g=
 		</data>
-		<key>Resources\Image\OldCursor.icns</key>
+		<key>Resources\Image\Acidanthera\Chardonnay\BtnFocus.icns</key>
+		<data>
+		IS4QjANrrtqVFjI5s/e6eFDIaB9NLhpJD0USO6m7zN8=
+		</data>
+		<key>Resources\Image\Acidanthera\Chardonnay\Cursor.icns</key>
 		<data>
 		cFrd6p5REd0tw/V/R0QLKCTIwR3FIZWor2hjc0pNQvQ=
 		</data>
-		<key>Resources\Image\OldExtAppleRecv.icns</key>
+		<key>Resources\Image\Acidanthera\Chardonnay\Dot.icns</key>
+		<data>
+		V9zyQ7+03RXENw++Jk8DQ86HEo93sK4w0m3eMkDQ7Ec=
+		</data>
+		<key>Resources\Image\Acidanthera\Chardonnay\Enter.icns</key>
+		<data>
+		2qjlYfDL8SQh33YrgOL3ZxPSPORnUnHZa5QPAubZVk8=
+		</data>
+		<key>Resources\Image\Acidanthera\Chardonnay\ExtAppleRecv.icns</key>
 		<data>
 		kCAVGiy7XvX5OeArbGsj/YA2tPFO9H5Nu2rsK3mlwaE=
 		</data>
-		<key>Resources\Image\OldExtAppleTM.icns</key>
+		<key>Resources\Image\Acidanthera\Chardonnay\ExtAppleTM.icns</key>
 		<data>
 		v1i8lfUZhtA0AZzjSYTIm7LALt8ewR3XFtxesyqYpQg=
 		</data>
-		<key>Resources\Image\OldExtHardDrive.icns</key>
+		<key>Resources\Image\Acidanthera\Chardonnay\ExtHardDrive.icns</key>
 		<data>
 		lx2LM6/BjCD+7JjBZwxTifveSSBuZ0a0vZozYfgPhsM=
 		</data>
-		<key>Resources\Image\OldHardDrive.icns</key>
+		<key>Resources\Image\Acidanthera\Chardonnay\HardDrive.icns</key>
 		<data>
 		bdk6FQmsEZNwuu23yYPgcPL2I3Ef/J5EMLFgZj8JmCk=
 		</data>
-		<key>Resources\Image\OldSelected.icns</key>
+		<key>Resources\Image\Acidanthera\Chardonnay\Left.icns</key>
+		<data>
+		cgikYbQZTogUg01b6l1QcJFazpSn7v0m++i/kxhZiFo=
+		</data>
+		<key>Resources\Image\Acidanthera\Chardonnay\Lock.icns</key>
+		<data>
+		lxK2A2D/aURH/KnkYZPz0CxBdcencIhMLjp1dp8Y6l4=
+		</data>
+		<key>Resources\Image\Acidanthera\Chardonnay\Password.icns</key>
+		<data>
+		o7X2QdbeJcGMkbTqfqw2JUdmTHKDbJHXYGZPQ2+MgL4=
+		</data>
+		<key>Resources\Image\Acidanthera\Chardonnay\Restart.icns</key>
+		<data>
+		DkO+eSgCVKft+fN7j/UahgMwb9eYt93nlhyRvQMS14M=
+		</data>
+		<key>Resources\Image\Acidanthera\Chardonnay\Right.icns</key>
+		<data>
+		AhlZLho660xpg8WhrHAAKrrgFFIG5Jl0MR47sA5nr00=
+		</data>
+		<key>Resources\Image\Acidanthera\Chardonnay\Selected.icns</key>
 		<data>
 		vx8ufLxFiYZRp2r38/XXdwAZCC5YA5X5CDi1nV1eDlA=
 		</data>
-		<key>Resources\Image\OldSelector.icns</key>
+		<key>Resources\Image\Acidanthera\Chardonnay\Selector.icns</key>
 		<data>
 		9rRKs/YfQiHpV0iqtD9yexvZ25YKg5d3OoDD3cepdMA=
 		</data>
-		<key>Resources\Image\OldShell.icns</key>
+		<key>Resources\Image\Acidanthera\Chardonnay\SetDefault.icns</key>
+		<data>
+		qZnS/oJnPBX4GUSWNNbNLPXHuUwFePgCqMgztCNke6A=
+		</data>
+		<key>Resources\Image\Acidanthera\Chardonnay\Shell.icns</key>
 		<data>
 		gEcPCfcDTmFjthsXV+0PmwUQJiThDYfLGU8EiMWm1Yo=
 		</data>
-		<key>Resources\Image\OldTool.icns</key>
+		<key>Resources\Image\Acidanthera\Chardonnay\ShutDown.icns</key>
+		<data>
+		hWoPve+mDidJbhz/Lc8Ztl16JpyI2alOCguhknz+oRw=
+		</data>
+		<key>Resources\Image\Acidanthera\Chardonnay\Tool.icns</key>
 		<data>
 		ki1bEsK6JJbF7q3YNKyeoa+zh+UzJiAaQZSZOZWArYs=
 		</data>
-		<key>Resources\Image\OldWindows.icns</key>
+		<key>Resources\Image\Acidanthera\Chardonnay\Windows.icns</key>
 		<data>
 		wNcbRCTnfXw2Baf/ZnCvqoHh1c0O80ez6gQod9GAm/s=
 		</data>
-		<key>Resources\Image\Selected.icns</key>
+		<key>Resources\Image\Acidanthera\GoldenGate\AppleRecv.icns</key>
+		<data>
+		/BgNBDK61juRB9enaiMVbKTBTprFwB+STva6Nyowc9o=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\AppleTM.icns</key>
+		<data>
+		ZPMdZ9ZdI1Ewm8MvRMSXK0hRCzskX5Jl4847V85+uww=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\BtnFocus.icns</key>
+		<data>
+		IS4QjANrrtqVFjI5s/e6eFDIaB9NLhpJD0USO6m7zN8=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\Cursor.icns</key>
+		<data>
+		Jq5yGVAvPVr6v4tBk0e8gtC6JqFErC0H4B99KR7/YA0=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\Dot.icns</key>
+		<data>
+		AaUyqSXczuR93dz/Lgz1u5nYUR0iPqc7rpizmN71A4M=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\Enter.icns</key>
+		<data>
+		6dRwvxmbVfW2nYfKxkSmwuqxaXIEa0eFOZongcm5YPQ=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\ExtAppleRecv.icns</key>
+		<data>
+		YjdIMMCOHFWkvTjhDIhhZkkn0zIvetOOE/fKHlkJARs=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\ExtAppleTM.icns</key>
+		<data>
+		fIIdnzB+TdAwXH5ycb+ZD3J6ZUVBlXkFp2/WAEutyDA=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\ExtHardDrive.icns</key>
+		<data>
+		+4qdClWN6wkZ2WNMUJzPraCVfiiKmd1SRb+Y48gwdxA=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\HardDrive.icns</key>
+		<data>
+		MbwlF/zaeBXfZzXWM185aZGnOSTNoKTgRn3jI/M/m0M=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\Left.icns</key>
+		<data>
+		4RZNZu53JIjABj1ilEVR3IIlg6b9gh2TNDHFtlBgIbc=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\Lock.icns</key>
+		<data>
+		tcxFjna2CE48m36dSHwes/2m5OddTygUv3fAOgfQ/Rw=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\Password.icns</key>
+		<data>
+		QfBs/dqJYwnOXptQkK65wn7BIuYRs+5ngYAMMKkklVQ=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\Restart.icns</key>
+		<data>
+		4gn0mbC3FGaBx+LmvftwTK13paU8Pl1U9OJhkTCyA8k=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\Right.icns</key>
+		<data>
+		5P0IBHULK9sgClozD9t+YhXRUHitJja9WfakKn+v4HI=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\Selected.icns</key>
+		<data>
+		SrjQNmb8/9l64Ybs5ZNFo3Am7Cn7krO/ROAIdW0WSkY=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\Selector.icns</key>
+		<data>
+		TgTAN7FE9CgKE5ZQM0+QbSoGHpxOMhmjiDycbNOsH9s=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\SetDefault.icns</key>
+		<data>
+		Z9P8Ge5tvsQYcHYipG4OKhPRZVyc08hAhvxsb189xDo=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\Shell.icns</key>
+		<data>
+		oMWuySb25GSzbGFvPbE/DCIfOYzrSDfLjaFD4EFBegk=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\ShutDown.icns</key>
+		<data>
+		u0Wp4BUN9kEDxJg0cec1Jbf7njJWNxSrFK9nwfgGAC0=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\Tool.icns</key>
+		<data>
+		X7xov3P65oJ2Zmkd+TEoXLlP3s6FRgyXBLZIcJZ8GYU=
+		</data>
+		<key>Resources\Image\Acidanthera\GoldenGate\Windows.icns</key>
+		<data>
+		IkPiIAOWRqWCMEzmZhnhz6dYOU5vOrtYuTq56xFkq5A=
+		</data>
+		<key>Resources\Image\Acidanthera\Syrah\AppleRecv.icns</key>
+		<data>
+		B7hfEZiy+0DN5mhJRhO8vRXKn7xj/CYaunv3+aPcw0I=
+		</data>
+		<key>Resources\Image\Acidanthera\Syrah\AppleTM.icns</key>
+		<data>
+		2THGhilwQruqRcy0LW1OqCGr5qVaxlWHQzKb96AtBwQ=
+		</data>
+		<key>Resources\Image\Acidanthera\Syrah\BtnFocus.icns</key>
+		<data>
+		IS4QjANrrtqVFjI5s/e6eFDIaB9NLhpJD0USO6m7zN8=
+		</data>
+		<key>Resources\Image\Acidanthera\Syrah\Cursor.icns</key>
+		<data>
+		jWnjyC+nftf8rbEBmttXiqobKyBgUNNVTnKTRH2k1vU=
+		</data>
+		<key>Resources\Image\Acidanthera\Syrah\Dot.icns</key>
+		<data>
+		l3eFkatx99nKmx4V8fLnx703y4mvCWLnafKgms2MZ2I=
+		</data>
+		<key>Resources\Image\Acidanthera\Syrah\Enter.icns</key>
+		<data>
+		RZymRLyjRS+1mlXMmrz8Wy0GHrLgfTa27Aftr7oajlk=
+		</data>
+		<key>Resources\Image\Acidanthera\Syrah\ExtAppleRecv.icns</key>
+		<data>
+		7xLvdstZvJsbpWA0XV68d/Wvf2qj8o21dwlHiORrc38=
+		</data>
+		<key>Resources\Image\Acidanthera\Syrah\ExtAppleTM.icns</key>
+		<data>
+		qNVam12lgS9r1kxUMrTkFNa7IC4qyXEf1XAqyfXRq58=
+		</data>
+		<key>Resources\Image\Acidanthera\Syrah\ExtHardDrive.icns</key>
+		<data>
+		byYuBaNvH/PloBeLM5YmwVa+aN6Pm120uQZSzhF0RYs=
+		</data>
+		<key>Resources\Image\Acidanthera\Syrah\HardDrive.icns</key>
+		<data>
+		ZSydAoxJb6XadZEPkLMSur6b76ouYgo0bedlFcPdGZw=
+		</data>
+		<key>Resources\Image\Acidanthera\Syrah\Left.icns</key>
+		<data>
+		mY3M9BpRYs+sDq+zkEuOF3LPB88iEo50iv8fGM2/bf4=
+		</data>
+		<key>Resources\Image\Acidanthera\Syrah\Lock.icns</key>
+		<data>
+		QiNqk+Nw0VNN1KrVmVK86dLqaHwmSsbd2dKgWxN3+YE=
+		</data>
+		<key>Resources\Image\Acidanthera\Syrah\Password.icns</key>
+		<data>
+		dzfPSTxG0wf0k895MpwLiXwzCrb8ssd0QREnCU0L1qc=
+		</data>
+		<key>Resources\Image\Acidanthera\Syrah\Restart.icns</key>
+		<data>
+		4gn0mbC3FGaBx+LmvftwTK13paU8Pl1U9OJhkTCyA8k=
+		</data>
+		<key>Resources\Image\Acidanthera\Syrah\Right.icns</key>
+		<data>
+		s4KOCJhiBhYdnnRXpb3UG8WgYK3MANCuGdVt9gsbHBM=
+		</data>
+		<key>Resources\Image\Acidanthera\Syrah\Selected.icns</key>
 		<data>
 		3j7UwdA2B+fxXOpYKLe6onQ0k6QZJpjCim84A7Uho84=
 		</data>
-		<key>Resources\Image\Selector.icns</key>
+		<key>Resources\Image\Acidanthera\Syrah\Selector.icns</key>
 		<data>
-		IfpTJIn1e29emudlPZdU+Tc8kw8V38/qBG0D3gRuVvk=
+		h97pfGgo2LSvDSR+9lP44WlGKU8RimrHER+THX4Gw/Q=
 		</data>
-		<key>Resources\Image\Shell.icns</key>
+		<key>Resources\Image\Acidanthera\Syrah\SetDefault.icns</key>
+		<data>
+		Xf68zmlqiJ2GujQfvTcD6NU65ybKNjpQ25mYjVw9bYA=
+		</data>
+		<key>Resources\Image\Acidanthera\Syrah\Shell.icns</key>
 		<data>
 		p5qs2O/dgXshBdR3+inPDaS7dH3chT5CY0G9DVlO1Y8=
 		</data>
-		<key>Resources\Image\Tool.icns</key>
+		<key>Resources\Image\Acidanthera\Syrah\ShutDown.icns</key>
+		<data>
+		u0Wp4BUN9kEDxJg0cec1Jbf7njJWNxSrFK9nwfgGAC0=
+		</data>
+		<key>Resources\Image\Acidanthera\Syrah\Tool.icns</key>
 		<data>
 		P/qbWF8tPEpxYMJaR8zmm0aYw44eX6zYSKQczHYKtuo=
 		</data>
-		<key>Resources\Image\Windows.icns</key>
+		<key>Resources\Image\Acidanthera\Syrah\Windows.icns</key>
 		<data>
 		vdSheJ+3sDd3ARNfArhva6RhRFwnuaQz9ZN/X7oh38o=
 		</data>
@@ -272,6 +440,22 @@
 		<data>
 		x/EwJcwlbQV6AmKggOwO2TP/9yAhi79HyHYvL+Q1AJg=
 		</data>
+		<key>Resources\Label\SIPDisabled.l2x</key>
+		<data>
+		Se7aJMm3tiUxhjMfnD7/i7q3KH27oMqhuM1X3xCvQxg=
+		</data>
+		<key>Resources\Label\SIPDisabled.lbl</key>
+		<data>
+		SxWFiHm34BJxnP2LcJKNsBFGTXSCEWuUj0jJt7WwM6Q=
+		</data>
+		<key>Resources\Label\SIPEnabled.l2x</key>
+		<data>
+		8izpKI+IWaoM52CeTiDTbDEp+lgAVqHHp4OqZbuQBDA=
+		</data>
+		<key>Resources\Label\SIPEnabled.lbl</key>
+		<data>
+		UFUQHABixhEaU0jr78FnQGBQyGygfFGIDdJYedUxvlc=
+		</data>
 		<key>Resources\Label\Shell.l2x</key>
 		<data>
 		iL/jdtTT78wa42h1t64Nwf3yf3o8LYWbC4pfh/Y60b8=
@@ -290,19 +474,23 @@
 		</data>
 		<key>Resources\Label\Windows.l2x</key>
 		<data>
-		ss8U4b4/hAy/cUyNikpOdqY1x+5bsmqVOSIlhDCRdwg=
+		xkiFqfW3cXMhpJkn3pjxTRnLt64SGh0Pn2LX102vQ+A=
 		</data>
 		<key>Resources\Label\Windows.lbl</key>
 		<data>
-		qSL4ofi7m/ym98/PsrcsC6zCF+D2Et1O9Gd7w9UElkg=
+		oZr/+8/2lWIWWm7DcSXwexQNxY8PFNFSLDJsXKs8CbM=
 		</data>
 		<key>Tools\OpenShell.efi</key>
 		<data>
-		7OHNxdcgg9G9f4JHO1zNTUZAD4OZRLp+H4fFVL7reas=
+		Qa54g9nN4y9OYm2K1v8qfwdgy/4lLB7i5c/OImanuBk=
 		</data>
 		<key>config.plist</key>
 		<data>
-		2YLTNF5b3/fFGNXdWKyfTsup9rNnBMz6u4d9UHhdbjw=
+		QSx1cRNAnYFgqIP9vdWveL8CqHN6A4tL5kF6DvVldgY=
+		</data>
+		<key>old-debug.plist</key>
+		<data>
+		Ar6YrhpEsVH1QQbyoLkS3K/xPz4A6p6LCN6LMstzaq8=
 		</data>
 		<key>old.plist</key>
 		<data>
