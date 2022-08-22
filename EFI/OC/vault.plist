@@ -14,11 +14,11 @@
 		</data>
 		<key>Drivers\AudioDxe.efi</key>
 		<data>
-		fw6ieUzN+ok9WqwdPoSHbqN4NSkq/kAJ/Q7Y4Pbn2w8=
+		anXjTTTHmwHC5Tk/dUki8K/ffcKn7o0UtUu0RRlpU9Q=
 		</data>
 		<key>Drivers\CrScreenshotDxe.efi</key>
 		<data>
-		chvDnDbR4+YjwtV8N3ZOKMOoO7g2PsFgHN+JNNBnpAE=
+		n2XJWezIuRau3j0nEO+AviIJZUxaryF8MjQXb0pNHlw=
 		</data>
 		<key>Drivers\HfsPlus.efi</key>
 		<data>
@@ -26,27 +26,27 @@
 		</data>
 		<key>Drivers\OpenCanopy.efi</key>
 		<data>
-		KbCQp4m1ndVNKJehim6andskJQFARn1YIXnkDqPnIOc=
+		8H1F45VOAtwaTpRxBzWun3c6vFxHnjtnJ3XtGKxr/KA=
 		</data>
 		<key>Drivers\OpenRuntime.efi</key>
 		<data>
-		hCickYcnPp/iC/SOHr7pWph0DJ4zIOHxmNpGcYkZJFc=
+		MFoQ3C4+kY1vkSuSSHZrQdYdCVMkGVaDc1nUyHcvFx0=
 		</data>
 		<key>Kexts\AppleALC.kext\Contents\Info.plist</key>
 		<data>
-		0T0GpCd98P51HcEVjL26YJkYEP8HF6KqyYdqd2ACEqw=
+		DWMp4L2OAFQYZP31IdbJ/hd1OJKNHuriT8aFYZL3RlY=
 		</data>
 		<key>Kexts\AppleALC.kext\Contents\MacOS\AppleALC</key>
 		<data>
-		XxLD6tly4H2nUpfK8KQ51IrrVmd9/c3JS4W/V18PA0M=
+		hDe5kHLQB1anrbMNGHK1qQxbH0bWlU+duQ9Z7ClKi14=
 		</data>
 		<key>Kexts\CPUFriend.kext\Contents\Info.plist</key>
 		<data>
-		Mn8z2wPiMC6lDTBLtEATvkyCpuUKJ7fFrjaV3A+16bk=
+		2jodJZANtOrQ9Kla0uitIzFBvG2UTLi60uz0MgQfgqg=
 		</data>
 		<key>Kexts\CPUFriend.kext\Contents\MacOS\CPUFriend</key>
 		<data>
-		StWVEGhp8o+9GDWQ6+R+f+55rQvMq/+BBR1Ucit96VA=
+		qNGfpGZu/zsCiT+dt74KHpul4g436g61q0Izi2gUTsc=
 		</data>
 		<key>Kexts\CPUFriendDataProvider.kext\Contents\Info.plist</key>
 		<data>
@@ -62,35 +62,35 @@
 		</data>
 		<key>Kexts\Lilu.kext\Contents\Info.plist</key>
 		<data>
-		Z4U+z2gnnoRsAe/YmH9U0bc6Ao21FUT72ij0eVnGiFg=
+		M9C+Iln8sM2g988bnV0iKtkuVvo6XTQRwv6msUiCHc8=
 		</data>
 		<key>Kexts\Lilu.kext\Contents\MacOS\Lilu</key>
 		<data>
-		iEhAErM1HnlN7AnBCoGeGXHS+B+00tph0joaTYUulaE=
+		ilGh2Rw2Z2Kd2W4nyN+dtDfyrbM2otiDOc9JatBAHaU=
 		</data>
 		<key>Kexts\NVMeFix.kext\Contents\Info.plist</key>
 		<data>
-		4HZLC65kzd+znm5SdXnvIxdWjlK7orEv24eK/6MFVMQ=
+		ELwB23fM716cYGsqyCVlyvLgsb5Ayu55d9HF9DVj3Uc=
 		</data>
 		<key>Kexts\NVMeFix.kext\Contents\MacOS\NVMeFix</key>
 		<data>
-		oxqcV09Yq6+buRmj+nSmf0VzgrU6iVj+7+Qh6z46rck=
+		wKA4pVijt63jkeGPG645yJHo6gYsZUQcpIDpX5lDp7A=
 		</data>
 		<key>Kexts\SMCProcessor.kext\Contents\Info.plist</key>
 		<data>
-		clIXuqd7nWomQZOCDD4dxw36iqUh9jCFscd7os2m5rE=
+		cOTA6Stj7xJ8CpY9ZQRPMZIO0FEEyJNSXqfh+V/Aznw=
 		</data>
 		<key>Kexts\SMCProcessor.kext\Contents\MacOS\SMCProcessor</key>
 		<data>
-		F0LhLXDd1nrYkbqflYGVqWkJQZ8ZJPwAOKOSgWLat/U=
+		zNCEnOgs5nsEA51kpiGZXqbV9E/lkql3TZY+vTXhD8A=
 		</data>
 		<key>Kexts\SMCSuperIO.kext\Contents\Info.plist</key>
 		<data>
-		4GSmEH2ne9W2/Oz++5T4eMfhKHRlXhIzjxHSj81PhFk=
+		T0twcwHpbJR+7H9r8DCHwG3JgTYtwiyfbCZvb9iSP04=
 		</data>
 		<key>Kexts\SMCSuperIO.kext\Contents\MacOS\SMCSuperIO</key>
 		<data>
-		e54QrJjDBjY2pQddr3mLVyA1txFQgpoEL2/ivcGEYnE=
+		BY5JbimlRN5IP/Kz09+tjOVeKVd3mJ1ZgB5OKDOvc6c=
 		</data>
 		<key>Kexts\USBMap.kext\Contents\Info.plist</key>
 		<data>
@@ -98,19 +98,19 @@
 		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\Info.plist</key>
 		<data>
-		IfPfgPmNSxUy1k/hqLUHVv/ixoWQOc9mw4yM8qZcLRY=
+		y9BMjNIENoxOu6UoJIuSOm/o8KmaFwCeo9JvGYQi3QI=
 		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\MacOS\VirtualSMC</key>
 		<data>
-		wzlxCj9PXjRxhRhGJ6zXJsWRZFrdlXXKyKnkL+jgf7w=
+		Nrliu9m1ueTSd4GZfROD0UGxjJi72TK6WnWUGWxDt8Q=
 		</data>
 		<key>Kexts\WhateverGreen.kext\Contents\Info.plist</key>
 		<data>
-		5qR6UgoQjS9PhEMDquGp4WDE3fRfutQE7aeDsAvOuUE=
+		+6eJYMhLFGfJZbV/aIdk/w7aFXPthKW6ojvha9kLpIo=
 		</data>
 		<key>Kexts\WhateverGreen.kext\Contents\MacOS\WhateverGreen</key>
 		<data>
-		qd0SmhzT5hXIFx+zL2ce/hhH6PqYQjd4QvlfAnwE7/A=
+		2yoGqmUK4SSnu09CE8J6Hj7uwn/EZmaWjly4oZgsZV0=
 		</data>
 		<key>Resources\Font\Font_1x.bin</key>
 		<data>
@@ -486,15 +486,7 @@
 		</data>
 		<key>config.plist</key>
 		<data>
-		QSx1cRNAnYFgqIP9vdWveL8CqHN6A4tL5kF6DvVldgY=
-		</data>
-		<key>old-debug.plist</key>
-		<data>
-		Ar6YrhpEsVH1QQbyoLkS3K/xPz4A6p6LCN6LMstzaq8=
-		</data>
-		<key>old.plist</key>
-		<data>
-		e10R1blEOWi2TFZpiWpvEnYn3Tgu65NK1+AfMEB4kj0=
+		2VSn+3yXPiRlCLhqEmWiryTS0/hk03U+4lesMNfQS9Q=
 		</data>
 	</dict>
 	<key>Version</key>
