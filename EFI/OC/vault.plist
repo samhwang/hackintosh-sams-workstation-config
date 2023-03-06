@@ -14,11 +14,11 @@
 		</data>
 		<key>Drivers\AudioDxe.efi</key>
 		<data>
-		anXjTTTHmwHC5Tk/dUki8K/ffcKn7o0UtUu0RRlpU9Q=
+		BLVUQVCCD4yr3pfWy/xhllxEkFXPmCTnbNn03Y2fjec=
 		</data>
 		<key>Drivers\CrScreenshotDxe.efi</key>
 		<data>
-		n2XJWezIuRau3j0nEO+AviIJZUxaryF8MjQXb0pNHlw=
+		9ayetj2vAIGUDH9kpm+gWkj8tiTpVe2PRg06VFO5Bt0=
 		</data>
 		<key>Drivers\HfsPlus.efi</key>
 		<data>
@@ -26,19 +26,19 @@
 		</data>
 		<key>Drivers\OpenCanopy.efi</key>
 		<data>
-		8H1F45VOAtwaTpRxBzWun3c6vFxHnjtnJ3XtGKxr/KA=
+		Srgj6td02m7lynvdv8ytIz9HrlAfyEMbov+ojKe1qGk=
 		</data>
 		<key>Drivers\OpenRuntime.efi</key>
 		<data>
-		MFoQ3C4+kY1vkSuSSHZrQdYdCVMkGVaDc1nUyHcvFx0=
+		rPCwGgAsyfHKL6wjMk9B8F+e9WsedbMgpRFSsC7D5H0=
 		</data>
 		<key>Kexts\AppleALC.kext\Contents\Info.plist</key>
 		<data>
-		DWMp4L2OAFQYZP31IdbJ/hd1OJKNHuriT8aFYZL3RlY=
+		kZJYULN8B6sKUmTABwOMU/ode+wPgjh0dtU6js5uKng=
 		</data>
 		<key>Kexts\AppleALC.kext\Contents\MacOS\AppleALC</key>
 		<data>
-		hDe5kHLQB1anrbMNGHK1qQxbH0bWlU+duQ9Z7ClKi14=
+		LSyfGotXVPzRQsK8QI8c8vTlHbkOcfu4jYUU5hPL79Q=
 		</data>
 		<key>Kexts\CPUFriend.kext\Contents\Info.plist</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Kexts\Lilu.kext\Contents\Info.plist</key>
 		<data>
-		M9C+Iln8sM2g988bnV0iKtkuVvo6XTQRwv6msUiCHc8=
+		zdqpYtHvAPZyL//Jie7DvlCV9LhzYo/yq2PiSFIJ+hE=
 		</data>
 		<key>Kexts\Lilu.kext\Contents\MacOS\Lilu</key>
 		<data>
-		ilGh2Rw2Z2Kd2W4nyN+dtDfyrbM2otiDOc9JatBAHaU=
+		6Fd+LKK4pp7NjQVnTOwXh3Ekof6/vrY4TH5kSUzwxdQ=
 		</data>
 		<key>Kexts\NVMeFix.kext\Contents\Info.plist</key>
 		<data>
@@ -106,11 +106,11 @@
 		</data>
 		<key>Kexts\WhateverGreen.kext\Contents\Info.plist</key>
 		<data>
-		+6eJYMhLFGfJZbV/aIdk/w7aFXPthKW6ojvha9kLpIo=
+		ue+FwgrGXPhWPRpxq2h6ZeMPaZEPgrxaqXEnc7Y9FPk=
 		</data>
 		<key>Kexts\WhateverGreen.kext\Contents\MacOS\WhateverGreen</key>
 		<data>
-		2yoGqmUK4SSnu09CE8J6Hj7uwn/EZmaWjly4oZgsZV0=
+		TIzRKEt9r54/GoHr1pibw3jowSeQ/DZ7WH/fnThiSQA=
 		</data>
 		<key>Resources\Font\Font_1x.bin</key>
 		<data>
@@ -486,7 +486,7 @@
 		</data>
 		<key>config.plist</key>
 		<data>
-		EATQ9/UHKPO6oYMJPmMs/os99SEZ2LmxSQ1yDsx+HS4=
+		JfkFdCPOH5s9SCseXGX/l8bMqu12vkxNKIIUy+mUzAg=
 		</data>
 	</dict>
 	<key>Version</key>
