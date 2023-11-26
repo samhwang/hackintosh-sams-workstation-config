@@ -3,7 +3,10 @@
 OPENCORE_VERSION=0.8.9
 OPENCORE_EFI_RELEASE=OpenCore-${OPENCORE_VERSION}-RELEASE
 OPENCORE_EFI_FILE=EFI/OC/OpenCore.efi
-OPENCORE_EFI_PATH=../${OPENCORE_EFI_RELEASE}/X64/${OPENCORE_EFI_FILE}
+
+OPENCORE_DOWNLOAD_PATH=../${OPENCORE_EFI_RELEASE}
+OPENCORE_EFI_PATH=${OPENCORE_DOWNLOAD_PATH}/X64/${OPENCORE_EFI_FILE}
+OPENCORE_UTILITY_PATH=${OPENCORE_DOWNLOAD_PATH}/Utilities
 PROJECT=`pwd`
 
 echo "Removing old keys and vault";
@@ -23,5 +26,11 @@ fi
 echo "Copy OpenCore.efi\n";
 cp $OPENCORE_EFI_PATH ./${OPENCORE_EFI_FILE};
 
+echo "Copy OpenCore Utilities\n";
+cp -r $OPENCORE_UTILITY_PATH ./Utilities
+
 echo "Generate keys"
 ./Utilities/CreateVault/sign.command
+
+echo "Removing utilities\n";
+rm -rf ./Utilities
