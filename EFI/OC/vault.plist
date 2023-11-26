@@ -14,39 +14,39 @@
 		</data>
 		<key>Drivers\AudioDxe.efi</key>
 		<data>
-		BLVUQVCCD4yr3pfWy/xhllxEkFXPmCTnbNn03Y2fjec=
+		4svfWxydV/nRKdmkRJ/odBQVqzmN6O5v1Hc3RJMVmvU=
 		</data>
 		<key>Drivers\CrScreenshotDxe.efi</key>
 		<data>
-		9ayetj2vAIGUDH9kpm+gWkj8tiTpVe2PRg06VFO5Bt0=
+		UF728bToAxv6vWMkFyLeNocfKP5tAm9c2z8WuB5DbcU=
 		</data>
 		<key>Drivers\HfsPlus.efi</key>
 		<data>
-		YZNfOa7Vd9ad+WYoL5P9KIamEcJm33rI8QVYttLXHXg=
+		pVtf/zZXiGS6Z5LExjaccfbzW2HdWoU934WDzTbDHY8=
 		</data>
 		<key>Drivers\OpenCanopy.efi</key>
 		<data>
-		Srgj6td02m7lynvdv8ytIz9HrlAfyEMbov+ojKe1qGk=
+		RFQkMmXUUJzrA4VjBVy56kpukQ+5XigW4xtEgCr1A2I=
 		</data>
 		<key>Drivers\OpenRuntime.efi</key>
 		<data>
-		rPCwGgAsyfHKL6wjMk9B8F+e9WsedbMgpRFSsC7D5H0=
+		gnbztXMCBZWSEGbXOTKkRPNeiuoNxgTKIB/zvcajWEE=
 		</data>
 		<key>Kexts\AppleALC.kext\Contents\Info.plist</key>
 		<data>
-		kZJYULN8B6sKUmTABwOMU/ode+wPgjh0dtU6js5uKng=
+		0u5kVFwDIqjl4pUpSQvqmDTIPBb0Qmi/5Zmw4/hHOk4=
 		</data>
 		<key>Kexts\AppleALC.kext\Contents\MacOS\AppleALC</key>
 		<data>
-		LSyfGotXVPzRQsK8QI8c8vTlHbkOcfu4jYUU5hPL79Q=
+		kp6WSuRrE+fyB9b8sg8Kba7lDrZxkkSYtGWMNfC44Jc=
 		</data>
 		<key>Kexts\CPUFriend.kext\Contents\Info.plist</key>
 		<data>
-		2jodJZANtOrQ9Kla0uitIzFBvG2UTLi60uz0MgQfgqg=
+		pFgqsN7kpNICJdR1tFvMajE3ciR9tBidCqfNod//V8g=
 		</data>
 		<key>Kexts\CPUFriend.kext\Contents\MacOS\CPUFriend</key>
 		<data>
-		qNGfpGZu/zsCiT+dt74KHpul4g436g61q0Izi2gUTsc=
+		Wt8DD60SZPG5Ny/IDkMF+5vYh/aUtmpfde81FzByH0I=
 		</data>
 		<key>Kexts\CPUFriendDataProvider.kext\Contents\Info.plist</key>
 		<data>
@@ -62,35 +62,35 @@
 		</data>
 		<key>Kexts\Lilu.kext\Contents\Info.plist</key>
 		<data>
-		zdqpYtHvAPZyL//Jie7DvlCV9LhzYo/yq2PiSFIJ+hE=
+		nnvnIqwSR+vSXsk/0QA95a4y4YcFJblU5CfnTfaLWM0=
 		</data>
 		<key>Kexts\Lilu.kext\Contents\MacOS\Lilu</key>
 		<data>
-		6Fd+LKK4pp7NjQVnTOwXh3Ekof6/vrY4TH5kSUzwxdQ=
+		Jdv7pVcD3Jjg+WIMqBJmERHLEaGl1R/KKewtPZ8tzbU=
 		</data>
 		<key>Kexts\NVMeFix.kext\Contents\Info.plist</key>
 		<data>
-		ELwB23fM716cYGsqyCVlyvLgsb5Ayu55d9HF9DVj3Uc=
+		WvSHPDNDqb82VHQVM2NItutB0P7OSil03IKK/3fF5PE=
 		</data>
 		<key>Kexts\NVMeFix.kext\Contents\MacOS\NVMeFix</key>
 		<data>
-		wKA4pVijt63jkeGPG645yJHo6gYsZUQcpIDpX5lDp7A=
+		7k8K3tC/81fwEMNVJtv2OXdGykpmA2mUTtwxV+1svAg=
 		</data>
 		<key>Kexts\SMCProcessor.kext\Contents\Info.plist</key>
 		<data>
-		cOTA6Stj7xJ8CpY9ZQRPMZIO0FEEyJNSXqfh+V/Aznw=
+		cgx3+PoSCbESUl1nuRDBEgpaVCeUgkpAovGSfW8Jz4Q=
 		</data>
 		<key>Kexts\SMCProcessor.kext\Contents\MacOS\SMCProcessor</key>
 		<data>
-		zNCEnOgs5nsEA51kpiGZXqbV9E/lkql3TZY+vTXhD8A=
+		DtLGTPu7T1IIvTdK4WxduLWnWU6/iBDA2N0/gGkiBU0=
 		</data>
 		<key>Kexts\SMCSuperIO.kext\Contents\Info.plist</key>
 		<data>
-		T0twcwHpbJR+7H9r8DCHwG3JgTYtwiyfbCZvb9iSP04=
+		4wusbl76s9smG/688yE5yMShNhtHPWrqZNuDlXNlKuc=
 		</data>
 		<key>Kexts\SMCSuperIO.kext\Contents\MacOS\SMCSuperIO</key>
 		<data>
-		BY5JbimlRN5IP/Kz09+tjOVeKVd3mJ1ZgB5OKDOvc6c=
+		ROKSiOZJYmhyTmVEadJUCRqKNT5rWhD7aKhqC+IXJpU=
 		</data>
 		<key>Kexts\USBMap.kext\Contents\Info.plist</key>
 		<data>
@@ -98,19 +98,19 @@
 		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\Info.plist</key>
 		<data>
-		y9BMjNIENoxOu6UoJIuSOm/o8KmaFwCeo9JvGYQi3QI=
+		4qpZi2joKTKS8buBwIW9M0Jwev1uNIjaGprVLJ2eFq4=
 		</data>
 		<key>Kexts\VirtualSMC.kext\Contents\MacOS\VirtualSMC</key>
 		<data>
-		Nrliu9m1ueTSd4GZfROD0UGxjJi72TK6WnWUGWxDt8Q=
+		Uht8t3UeViWaeN9paOmQbzT30qZy4AwW+7BzyQ+fEfc=
 		</data>
 		<key>Kexts\WhateverGreen.kext\Contents\Info.plist</key>
 		<data>
-		ue+FwgrGXPhWPRpxq2h6ZeMPaZEPgrxaqXEnc7Y9FPk=
+		W/h5ugwIYq6CB/XtjBQ4pIgmLoon3Gu7SenLLqEHYZ4=
 		</data>
 		<key>Kexts\WhateverGreen.kext\Contents\MacOS\WhateverGreen</key>
 		<data>
-		TIzRKEt9r54/GoHr1pibw3jowSeQ/DZ7WH/fnThiSQA=
+		/tjKIMszNk1X2djOO9oLecZXZqY5Led/9YrM4NR+W4A=
 		</data>
 		<key>Resources\Font\Font_1x.bin</key>
 		<data>
@@ -127,6 +127,14 @@
 		<key>Resources\Font\Font_2x.png</key>
 		<data>
 		T7Rc18QRoPovyg6kwfwqATD4rwvNxxJ07ID7sZ8UrE4=
+		</data>
+		<key>Resources\Font\Terminus.hex</key>
+		<data>
+		tzWHbmmMW/HuNEXvr9h9g0tfto5AeI9He8vYvHzgCG0=
+		</data>
+		<key>Resources\Font\TerminusCore.hex</key>
+		<data>
+		VkucDav7H3D1V7UQFhtImih/dcjleHNRMpNHtUSKSEs=
 		</data>
 		<key>Resources\Image\Acidanthera\Chardonnay\AppleRecv.icns</key>
 		<data>
@@ -482,11 +490,11 @@
 		</data>
 		<key>Tools\OpenShell.efi</key>
 		<data>
-		Qa54g9nN4y9OYm2K1v8qfwdgy/4lLB7i5c/OImanuBk=
+		PjrEZ1eWWgmchQDoYsB2AtCdsd7DJ/jiHckdQeUKlsg=
 		</data>
 		<key>config.plist</key>
 		<data>
-		JfkFdCPOH5s9SCseXGX/l8bMqu12vkxNKIIUy+mUzAg=
+		YEvHQq9hAgNYeD9n7cQOgN/oiXISrl12YXk4rd9Sou0=
 		</data>
 	</dict>
 	<key>Version</key>
